@@ -7,8 +7,9 @@ std::string getVersion() {
 }
 
 bool initialize() {
-    // Initialization logic for lattice-based cryptography
+    // TODO: Add initialization logic for lattice-based cryptography
     // This is a placeholder for future implementation
+    // e.g., Initialize random number generators, load parameters, etc.
     return true;
 }
 
